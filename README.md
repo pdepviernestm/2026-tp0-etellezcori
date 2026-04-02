@@ -1,6 +1,7 @@
 # Hola, soy Ezequiel Tellez
 ## Información personal:
 Nombre completo: Ezequiel Eloy Tellez Cori
+
 Legajo: 222.994-8
 
 ## Sobre mi
