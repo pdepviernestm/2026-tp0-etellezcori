@@ -1,5 +1,5 @@
-#Hola, soy Ezequiel Tellez
-##Información personal:
+# Hola, soy Ezequiel Tellez
+## Información personal:
 Nombre completo: Ezequiel Eloy Tellez Cori
 Legajo: 222.994-8
 
@@ -9,5 +9,5 @@ Me interesa la creación de software de momento solo sigo lo aprendido en clase 
 
 Tambien me interesa el área de la administración aunque no estoy tan metido en eso de momento, tengo algunos conocimientos basicos 
 
-#Foto
+# Foto
 ![Foto personal](foto.jpg)
